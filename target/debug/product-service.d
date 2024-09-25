@@ -1,0 +1,1 @@
+/Users/Daniyal/Desktop/Courses/Cloud/sem1/Full-stack\ Cloud-native\ Development/Lab2-Git/product-service/target/debug/product-service: /Users/Daniyal/Desktop/Courses/Cloud/sem1/Full-stack\ Cloud-native\ Development/Lab2-Git/product-service/src/main.rs
