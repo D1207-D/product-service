@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/Users/Daniyal/Desktop/Courses/Cloud/sem1/Full-stack Cloud-native Development/Lab2-Git/product-service/target/debug/build/mime_guess-e9954df5c3088ec6/out/mime_types_generated.rs
